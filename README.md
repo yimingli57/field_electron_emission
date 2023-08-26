@@ -18,5 +18,3 @@ This directory contains the code and selected DFT results for the paper "Modelin
 "exact_QM_transferMatrix.py" generates the emission current densities using the transfer-matrix method for transmission coefficients. 
 
 "exact_QM_RungeKutta.py" generates the transmission coefficient using a selected Runge-Kutta method.
-
-The relevant data are located in "Au_100.zip."
